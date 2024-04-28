@@ -1,4 +1,4 @@
-# JMDOTS Legal Repository
+# jmdots-legal - JMDOTS Legal Repository
 
 Welcome to the JMDOTS Legal Repository! This repository contains various legal
 documents and materials associated with [JMDOTS](https://www.github.com/jmdots/)
