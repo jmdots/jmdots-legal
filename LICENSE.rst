@@ -36,4 +36,3 @@ Limited Liability
 In no event shall the authors or copyright holders be liable for any claim, 
 damages, or other liability arising from the use or distribution of this 
 software.
-
