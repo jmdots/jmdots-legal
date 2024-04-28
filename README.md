@@ -50,7 +50,7 @@ jmdots-legal - JMDOTS Legal Repository
 ======================================
 Copyright © 2024 Joshua M. Dotson (contact@jmdots.com)
 
-JMDOTS-DUAL-LICENSE-1.0
+JMDOTS-DUAL-LICENSE-1.1
 =======================
 
 Personal, Non-Commercial License

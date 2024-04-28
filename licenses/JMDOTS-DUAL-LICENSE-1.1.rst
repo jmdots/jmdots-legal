@@ -1,8 +1,3 @@
-======================================
-jmdots-legal - JMDOTS Legal Repository
-======================================
-Copyright © 2024 Joshua M. Dotson (contact@jmdots.com)
-
 JMDOTS-DUAL-LICENSE-1.1
 =======================
 
