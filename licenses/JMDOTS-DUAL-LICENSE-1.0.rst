@@ -1,8 +1,8 @@
 JMDOTS-DUAL-LICENSE-1.0
 =======================
 
-GNU Affero General Public License (AGPL)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Personal, Non-Commercial License
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This software is provided under the GNU Affero General Public License (AGPL) 
 version 3 or later. You are free to use, modify, and distribute this 
 software for personal, non-commercial use under the terms of the AGPL. If you 
