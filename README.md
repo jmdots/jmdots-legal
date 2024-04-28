@@ -1,7 +1,7 @@
 # jmdots-legal
 
 Welcome to the JMDOTS Legal Repository! This repository contains various legal
-documents and materials associated with [JMDOTS]](http://www.github.com/jmdots/)
+documents and materials associated with [JMDOTS](https://www.github.com/jmdots/)
 projects and services.
 
 ## Contents
@@ -63,7 +63,7 @@ source code available under the same license terms. There is no warranty for
 this software, to the extent permitted by applicable law.
 
 For more details, please refer to the full text of the GNU AGPL: [GNU Affero
-General Public License](http://www.gnu.org/licenses/)
+General Public License](https://www.gnu.org/licenses/)
 
 Commercial License
 ~~~~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ services.
 
 For information on purchasing a commercial license, please contact us at
 [sales@jmdots.com](mailto:sales@jmdots.com) or visit our website at [JMDOTS
-GitHub](http://www.github.com/jmdots/).
+GitHub](https://www.github.com/jmdots/).
 
 Limited Liability
 ~~~~~~~~~~~~~~~~~
