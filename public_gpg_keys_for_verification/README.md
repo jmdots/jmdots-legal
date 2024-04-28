@@ -1,4 +1,4 @@
-# Public GPG Keys for Verification
+# JMDOTS Public GPG Keys for Verification
 
 ## Current Key
 

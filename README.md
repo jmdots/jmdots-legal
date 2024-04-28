@@ -1,6 +1,6 @@
-# jmdots-legal - JMDOTS Legal Repository
+# JMDOTS Legal
 
-Welcome to the JMDOTS Legal Repository! This repository contains various legal
+Welcome to the JMDOTS Legal! This repository contains various legal
 documents and materials associated with [JMDOTS](https://www.github.com/jmdots/)
 projects and services.
 
@@ -50,13 +50,14 @@ projects or services, please contact us at contact@jmdots.com.
 ## License
 
 ```
-======================================
-jmdots-legal - JMDOTS Legal Repository
-======================================
+===========================
+jmdots-legal - JMDOTS Legal
+===========================
 Copyright © 2024 Joshua M. Dotson (contact@jmdots.com)
 
-JMDOTS-DUAL-LICENSE-1.1
+JMDOTS-DUAL-LICENSE-1.2
 =======================
+https://legal.jmdots.com/licenses/
 
 Personal, Non-Commercial License
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,7 +69,7 @@ source code available under the same license terms. There is no warranty for
 this software, to the extent permitted by applicable law.
 
 For more details, please refer to the full text of the GNU AGPL: [GNU Affero
-General Public License](https://www.gnu.org/licenses/)
+General Public License](http://www.gnu.org/licenses/)
 
 Commercial License
 ~~~~~~~~~~~~~~~~~~
@@ -81,7 +82,7 @@ services.
 
 For information on purchasing a commercial license, please contact us at
 [sales@jmdots.com](mailto:sales@jmdots.com) or visit our website at [JMDOTS
-GitHub](https://www.github.com/jmdots/).
+GitHub](http://www.github.com/jmdots/).
 
 Limited Liability
 ~~~~~~~~~~~~~~~~~
