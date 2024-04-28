@@ -27,6 +27,11 @@ projects and services.
   products that collect user data, please refer to the privacy policies
   provided in this directory.
 
+- [Public GPG Keys for Verification](public_gpg_keys_for_verification): To
+  verify the authenticity of documents and communications from JMDOTS, access
+  our public GPG keys in this directory. These keys are used to sign all
+  official documents and releases.
+
 - [Terms of Service (ToS) and End User License Agreements (EULAs)](terms_of_service):
   This directory includes the terms of service and end user license agreements
   for services and software products offered by JMDOTS.
